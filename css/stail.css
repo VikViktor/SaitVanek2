@@ -1,0 +1,13 @@
+h1 {; /*text-decoration: underline*/; letter-spacing: 20px;/* background: #b7ff00a1*/}
+.center{max-width: 70%; margin: auto;}
+#color {color: red;letter-spacing: 4px;}
+p {color: green;}
+body {background-color: #b7ff00a1;
+font-size: 20px;
+font-weight:600;
+font-family: serif;border:20px solid black; }
+img {border-radius: 8px;
+box-shadow: 4px 4px 16px rgba(98, 53, 31, 1);a }
+.b {text-decoration: underline; font-family: cursive; font-weight: 400;}
+.aa { background: #b7ff00a1;border: 10px solid red;}
+.konteiner {max-width: 60%; margin: auto;}
